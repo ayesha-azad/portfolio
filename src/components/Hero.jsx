@@ -31,7 +31,7 @@ export default function Hero() {
         className="absolute inset-0 bg-cover bg-center"
         style={{ backgroundImage: `url(${import.meta.env.BASE_URL}laptop-workspace.png)` }}
       />
-      <div className="absolute inset-0 bg-black/60" />
+      <div className="absolute inset-0 bg-gradient-to-br from-black/70 to-[#3E2723]/70" />
       
       {/* Content */}
       <motion.div
