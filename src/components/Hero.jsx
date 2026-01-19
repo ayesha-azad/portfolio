@@ -45,7 +45,7 @@ export default function Hero() {
           className="text-6xl md:text-7xl font-bold text-white mb-4"
           style={{ textShadow: '2px 4px 8px rgba(0,0,0,0.8)' }}
         >
-          Hi, I'm Ayesha 👩‍💻
+          Hi, I'm Ayesha Azad👩‍💻
         </motion.h1>
         <motion.p
           variants={itemVariants}
