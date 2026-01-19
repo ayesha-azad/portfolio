@@ -29,7 +29,7 @@ export default function Hero() {
       {/* Background image with overlay */}
       <div 
         className="absolute inset-0 bg-cover bg-center"
-        style={{ backgroundImage: 'url(/laptop-workspace.png)' }}
+        style={{ backgroundImage: `url(${import.meta.env.BASE_URL}laptop-workspace.png)` }}
       />
       <div className="absolute inset-0 bg-black/60" />
       
