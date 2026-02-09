@@ -1,6 +1,6 @@
 services:
   portfolio:
     build: .
-    image: portfolio:latest
+    image: ayesha-azad/portfolio:latest
     ports:
       - "8030:80"
