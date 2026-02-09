@@ -1,0 +1,6 @@
+services:
+  portfolio:
+    build: .
+    image: portfolio:latest
+    ports:
+      - "8030:80"
