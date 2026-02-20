@@ -2,6 +2,21 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
+    title: "Dockerized Applications",
+    tech: "Docker & DevOps",
+    description: "Integrated collection of containerized apps including Maven, Angular + Spring Boot, PHP + MySQL, MERN stack, and AI models. Developed and managed CI/CD pipelines for these and many other projects.",
+  },
+  {
+    title: "X (Twitter) Clone",
+    tech: "Next.js & CI/CD",
+    description: "Built a functional X/Twitter clone using Next.js, featuring a robust and fully automated CI and CD pipeline.",
+  },
+  {
+    title: "ECO Trade Hub",
+    tech: "Full Stack",
+    description: "Sustainable trading platform connecting eco-conscious buyers and sellers. Implemented complete CI/CD pipelines for seamless deployment.",
+  },
+  {
     title: "Inventory Management System",
     tech: "MERN Stack",
     description: "Comprehensive inventory tracking system with real-time updates, stock management, and analytics dashboard built using MongoDB, Express, React, and Node.js.",
@@ -15,16 +30,6 @@ const projects = [
     title: "E-commerce Store",
     tech: "Next.js",
     description: "Modern e-commerce website built with Next.js, featuring server-side rendering and optimized performance.",
-  },
-  {
-    title: "Dockerized Applications",
-    tech: "Docker & DevOps",
-    description: "Integrated collection of containerized apps including Maven, Angular + Spring Boot, PHP + MySQL, MERN stack, and AI models with CI/CD pipelines.",
-  },
-  {
-    title: "ECO Trade Hub",
-    tech: "Full Stack",
-    description: "Sustainable trading platform connecting eco-conscious buyers and sellers.",
   },
   {
     title: "Livestock Management System",

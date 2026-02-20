@@ -52,7 +52,7 @@ export default function Hero() {
           className="text-xl md:text-2xl mb-8 text-white font-medium"
           style={{ textShadow: '1px 2px 4px rgba(0,0,0,0.8)' }}
         >
-          Full Stack Developer & DevOps Engineer
+          DevOps Engineer & Full Stack Developer
         </motion.p>
 
         <motion.div variants={itemVariants} className="space-x-4">

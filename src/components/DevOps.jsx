@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const devopsSkills = [
   { name: "Docker", icon: "🐳" },
-  { name: "Jenkins", icon: "🔧" },
+  { name: "Kubernetes", icon: "☸️" },
   { name: "GitHub Actions", icon: "⚙️" },
   { name: "CI/CD Pipelines", icon: "🔄" },
   { name: "Linux Servers", icon: "🖥️" },

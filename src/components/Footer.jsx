@@ -39,7 +39,7 @@ export default function Footer() {
               Ayesha.dev
             </h3>
             <p className="text-gray-700 dark:text-gray-300 text-sm leading-relaxed">
-              Full-stack developer passionate about creating beautiful web experiences and exploring DevOps technologies.
+              DevOps Engineer & Full-stack Developer passionate about creating beautiful web experiences and exploring DevOps technologies.
             </p>
           </motion.div>
 
